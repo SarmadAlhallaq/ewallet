@@ -1,0 +1,29 @@
+[
+  {
+    "cID": 1,
+    "cardType": "Mastercard",
+    "CardNumber": "1234 2345 4234 6534",
+    "nameOnCard": "sarmad test",
+    "expiryDate": "09/23",
+    "balance": 2923.30,
+    "wID": 1
+  },
+  {
+    "cID": 2,
+    "cardType": "Mastercard",
+    "CardNumber": "1234 2345 4234 6534",
+    "nameOnCard": "sarmad test",
+    "expiryDate": "09/23",
+    "balance": 2923.30,
+    "wID": 2
+  },
+  {
+    "cID": 3,
+    "cardType": "Mastercard",
+    "CardNumber": "1234 2345 4234 6534",
+    "nameOnCard": "sarmad test",
+    "expiryDate": "09/23",
+    "balance": 2923.30,
+    "wID": 4
+  }
+]

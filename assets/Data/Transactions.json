@@ -1,0 +1,24 @@
+[
+
+  {
+    "tID" : 1,
+    "type" : "Salary",
+    "day" : 13,
+    "month" : "January",
+    "time" : "04:30 AM",
+    "direction" : "spending",
+    "amount" : 10.0,
+    "wID" : 1
+  },
+
+  {
+    "tID" : 2,
+    "type" : "Store payment",
+    "day" : 13,
+    "month" : "February",
+    "time" : "04:30 AM",
+    "direction" : "income",
+    "amount" : 10.0,
+    "wID" : 2
+  }
+]

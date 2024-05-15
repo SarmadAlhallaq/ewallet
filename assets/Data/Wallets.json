@@ -1,0 +1,26 @@
+[
+  {
+    "wID": 1,
+    "wType": "Bank Card",
+    "wName": "rama",
+    "uID": 1
+  },
+  {
+    "wID": 2,
+    "wType": "Bank Card",
+    "wName": "sarmad",
+    "uID": 1
+  },
+  {
+    "wID": 3,
+    "wType": "Bank Card",
+    "wName": "yousef",
+    "uID": 2
+  },
+  {
+    "wID": 4,
+    "wType": "Bank Card",
+    "wName": "samaa",
+    "uID": 2
+  }
+]

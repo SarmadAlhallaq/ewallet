@@ -1,0 +1,23 @@
+[
+  {
+    "iD": 1,
+    "fName": "sarmad",
+    "lName": "321",
+    "email": "sarmad321@gmail.com",
+    "password": "123456"
+  },
+  {
+    "iD": 2,
+    "fName": "sarmad",
+    "lName": "alhallaq",
+    "email": "sarmad123@gmail.com",
+    "password": "654321"
+  },
+  {
+    "iD": 3,
+    "fName": "sarmad",
+    "lName": "al",
+    "email": "sarmad@gmail.com",
+    "password": "123456"
+  }
+]
